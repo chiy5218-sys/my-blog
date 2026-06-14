@@ -1,4 +1,7 @@
 ---
+title: "My new life"
+date: 2026.6.14
+layout: single
 menu:
     main:
         name: Home
@@ -6,3 +9,4 @@ menu:
         params:
             icon: home
 ---
+"别迷失在别人的世界里"

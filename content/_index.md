@@ -1,6 +1,6 @@
 ---
 title: "My new life"
-date: 2026.6.14
+date: 2026-06-14
 layout: single
 menu:
     main:

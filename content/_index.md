@@ -10,3 +10,4 @@ menu:
             icon: home
 ---
 "别迷失在别人的世界里"
+some idea

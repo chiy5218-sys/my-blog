@@ -20,7 +20,7 @@ SortBy              = "default"
 [sidebar]
     emoji    = "🍥"
     subtitle = "我还要和生活再死磕几年。"
-    avatar   = "img/avatar.jpg"
+    avatar   = "img/new-avatar.jpg"
 
 [article]
     headingAnchor = false

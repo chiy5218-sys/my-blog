@@ -10,7 +10,7 @@ favicon        = "img/favicon.png"
 SortBy              = "default"
 
 [footer]
-    since      = 2020
+    since      = 2025
     customText = ""
 
 [dateFormat]
@@ -19,7 +19,7 @@ SortBy              = "default"
 
 [sidebar]
     emoji    = "🍥"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    subtitle = "我还要和生活再死磕几年。要么我就毁灭，要么我就铸就辉煌，如果有一天你发现我向平庸低了头，请向我开炮"
     avatar   = "img/avatar.png"
 
 [article]

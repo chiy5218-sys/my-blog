@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: project
+description: Some ideas about projects
 image:
 
 # Badge style

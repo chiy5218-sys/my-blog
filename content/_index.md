@@ -4,7 +4,7 @@ date: 2026-06-14
 layout: single
 menu:
     main:
-        name: 主页
+        name: home
         weight: 1
         params:
             icon: home
